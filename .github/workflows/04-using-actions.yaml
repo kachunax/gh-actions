@@ -1,5 +1,6 @@
 name: 04 - Using Actions
 
+# Triggers: push to any branch, or manual dispatch
 on:
   push:
   workflow_dispatch:
